@@ -1,8 +1,8 @@
 /*
  * TicTacToe.h
  *
- *  Created on: May 22, 2016
- *      Author: raydelto
+ *  Fausto Jesús De La Cruz Caminero 2014-2261
+ *      
  */
 
 #ifndef TICTACTOE_H_
