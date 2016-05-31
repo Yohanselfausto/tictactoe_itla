@@ -1,7 +1,7 @@
 /*
  * TicTacToe.h
  *
- *  Fausto Jesús De La Cruz Caminero 2014-2261
+ *  
  *      
  */
 

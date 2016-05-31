@@ -1,5 +1,3 @@
-//Fausto Jesús De La Cruz Caminero 2014-2261
-
 #include "tictactoe.h"
 #include <cstdlib>
 using namespace std;
